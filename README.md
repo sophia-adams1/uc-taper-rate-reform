@@ -24,7 +24,7 @@ cost-of-living pressures, rather than a genuine shift in the underlying
 employment rate. The data does not support a clean "substitution effect won"
 story, and says so explicitly, rather than overstating a marginal result.
 
-## Key Components / Themes of the Project:
+## Key Components / Themes of the Project
 
 - **SQL**: multi-table joins, geography crosswalks, `CASE WHEN` recoding, window-style aggregation, staged temp-table pipelines (PostgreSQL)
 - **R**: `tidyverse`, `fixest` (high-dimensional fixed effects, clustered SEs, event-study `i()` syntax), `modelsummary`, `lubridate`
